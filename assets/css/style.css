@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+
+.active{
+    background-color: red;
+}
+
+.deactive{
+    background-color: black;
+}
